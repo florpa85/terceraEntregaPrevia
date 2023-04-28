@@ -1,0 +1,41 @@
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+nav{
+    height: 80px;
+  
+}
+
+
+.table{
+    justify-content: space-between;
+    border-top: 3px solid black;
+    height: 2px;
+    padding: 40px;
+    
+}
+
+.botones{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+.boton-cargar{
+    padding: 10px;
+}
+
+.boton-agregar{
+    padding: 10px;
+}
+
+.vaciar{
+    display: flex;
+    justify-content: center;
+   
+}
+
+.logo{
+    align-items: center;
+}
